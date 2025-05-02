@@ -24,9 +24,9 @@ Implemented the following OFI features:
 ## 📘 Conceptual Summary
 
 Answers to the following questions are included in the LaTeX folder named as `Conceptual Questions and Answers.pdf`:
-1. Motivation for multi-level OFI
-2. Why Lasso is used over OLS for cross-impact estimation
-3. Why OFI is more predictive than trade volume
+1. What’s the motivation behind measuring OFI at multiple depth levels of the order book?
+2. Why do the authors use Lasso regression rather than OLS for estimating cross-impact?
+3. Why is OFI considered a better predictor of short-term returns than trade volume?
 
 ## 📖 Reference
 
