@@ -31,7 +31,7 @@ Answers to the following questions are included in the LaTeX folder named as `Co
 ## 📖 Reference
 
 This work is based on the research paper:  
-**Cont, R., Cucuringu, M., & Zhang, Y. (2023).**  
+**Rama Cont, Mihai Cucuringu & Chao Zhang.**  
 *Cross-Impact of Order Flow Imbalance in Equity Markets*.
 
 ---
